@@ -4,7 +4,7 @@ This repository contains experimental and functional code to build agent-based A
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 Agentic AI systems are modular and context-aware, capable of reasoning and taking actions based on internal and external feedback loops. This project aims to demonstrate:
 

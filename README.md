@@ -50,4 +50,16 @@ Install them (inside Colab only):
 ```python
 !pip install -q -r requirements.txt
 ```
+
+## Usage
+- Open the notebook in Google Colab.
+
+- Mount your Google Drive
+
+```python
+from google.colab import drive
+drive.mount('/content/drive')
 ```
+
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
